@@ -1,0 +1,39 @@
+{
+    "name": "Amit Patil",
+    "title": "Data Engineer",
+    "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, vitae iste eum nam dignissimos distinctio sit minima obcaecati iusto nisi, voluptate accusamus odio numquam sunt odit corporis nulla error animi?",
+    "skills": {
+      "key_areas": ["ETL", "IICS", "Informatica Powercenter", "Azure"],
+      "languages_tools": ["Azure Synapse", "Databrikes", "SQL", "Snowflake", "Python", "Pyspark", "PLSQL"],
+      "databases": ["Oracle", "Postgre SQL"]
+    },
+    "experience": [
+      {
+        "title": "Data Engineer at Capgemini",
+        "duration": "November 2022 - Present",
+        "details": [
+          {"title": "Microsoft Azure Training", "date": "1st Jun 2023 - 30th Jun 2023", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+          {"title": "SQL Training", "date": "13th Sep 2023 - 15th Sep 2023)", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+          {"title": "Hackathon Data Quality and Alerting System", "date": "Nov 2023 - Dec 2023", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+          {"title": "Mini Project Amazon Sales Data (Usecases)", "date": "Dec 2022 - Feb 2023", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+        ]
+      },
+      {
+        "title": "Informatica IICS - Internship",
+        "duration": "10th Mar 2022 - 6th Jun 2022",
+        "details": [{"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}]
+      }
+    ],
+    "certifications": [
+      {"name": "Azure Associate Data Engineer (DP 203)", "provider": "Microsoft"},
+      {"name": "Azure Data Fundamentals (DP 900)", "provider": "Microsoft"},
+      {"name": "Azure Fundamentals (AZ 900)", "provider": "Microsoft"},
+      {"name": "Ocean certified as Data Engineer - IICS - Grade A - Level 1", "provider": "Ocean Capgemini"},
+      {"name": "IICS Cloud Data Integration Services R41", "provider": "Informatica University"},
+      {"name": "SQL for Data science", "provider": "Coursera"},
+      {"name": "SQL", "provider": "Hackerrank"},
+      {"name": "Python", "provider": "Hackerrank"},
+      {"name": "Agile Software Development", "provider": "Coursera"}
+    ]
+  }
+  
