@@ -21,7 +21,9 @@
       {
         "title": "Informatica IICS - Internship",
         "duration": "10th Mar 2022 - 6th Jun 2022",
-        "details": [{"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}]
+        "details": [
+          {"title": "", "date": "", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+        ]
       }
     ],
     "certifications": [
