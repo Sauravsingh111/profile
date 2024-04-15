@@ -1,8 +1,7 @@
 {
     "name": "Amit Patil",
     "title": "Data Engineer",
-    "bio": "Informatica (IICS) Certified Data Engineer with more than 1 year of experience also 
-    3x Microsoft Azure Certified. Possesses a strong background in insights, ETL (Extract, Transform, Load), data manipulation, transformation, and analysis. Proficient in Python for data manipulation, PySpark for big data processing, and Synapse Analytics for advanced analytics. Skilled in working with Azure, Oracle databases and Snowflake. Proficient in designing and implementing efficient data integration solutions that enable organizations to harness the full potential of their data.",
+    "bio": "Informatica (IICS) Certified Data Engineer with more than 1 year of experience also 3x Microsoft Azure Certified.<br> Possesses a strong background in insights, ETL (Extract, Transform, Load), data manipulation, transformation, and analysis.<br> Proficient in Python for data manipulation, PySpark for big data processing, and Synapse Analytics for advanced analytics. Skilled in working with Azure, Oracle databases and Snowflake. Proficient in designing and implementing efficient data integration solutions that enable organizations to harness the full potential of their data.",
     "skills": {
       "key_areas": ["ETL", "IICS", "Informatica Powercenter", "Azure"],
       "languages_tools": ["Azure Synapse", "Databrikes", "SQL", "Snowflake", "Python", "Pyspark", "PLSQL"],
